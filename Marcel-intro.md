@@ -1,4 +1,4 @@
-# Marcel
+# Infamous Marcel
 
 ## Country of origin
 Germany
